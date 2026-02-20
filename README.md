@@ -10,7 +10,7 @@ Analysis of 10K+ customers and 10K+ credit card transactions to identify spendin
 
 **Data**: 2 SQL tables (customer_data + card_data)  
 **Tools**: SQL + Power BI  
-**Queries**: 22 (Basic to Advanced)  
+**Queries**: 20 (Basic to Advanced)  
 **Dashboards**: 2 (Interactive Power BI pages)
 
 ---
@@ -56,7 +56,7 @@ Analysis of 10K+ customers and 10K+ credit card transactions to identify spendin
 
 ---
 
-## 📋 SQL Queries (22 Total)
+## 📋 SQL Queries (20 Total)
 
 | Level | Count | Topics |
 |-------|-------|--------|
@@ -81,14 +81,7 @@ Analysis of 10K+ customers and 10K+ credit card transactions to identify spendin
 - Female customers: slightly higher utilization (28%)
 - Chip technology correlates with lower delinquency
 
----
 
-## ⚙️ Setup
-
-### Clone Repository
-```bash
-git clone https://github.com/yourusername/credit-card-analytics.git
-```
 
 ### Database Setup
 1. Create database
@@ -157,18 +150,6 @@ Both dashboards support filtering by:
 
 ## 📞 Contact
 
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-
----
-
-## 📄 License
-
-MIT License - feel free to use for learning & development
-
----
-
-**Last Updated**: February 2026  
-**Status**: ✅ Complete  
-**Version**: 1.0
+- **Author**: [Mosaddek Hosen Sajeeb]
+- **Email**: [iamsojib582@gmail.com]
+- **GitHub**: (https://github.com/iamsojib582-cyber/credit-card-financial-analytics/edit/main/README.md)
